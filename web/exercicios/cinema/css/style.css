@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+.cidades {
+    color: seagreen;
+}
+
+
+.hoje{
+    color: darkred;
+}
+
+.amanha {
+    color: darkblue;
+}
+
+p{
+    font-size: 20px;
+}
